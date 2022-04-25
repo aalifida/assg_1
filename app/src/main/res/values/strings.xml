@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fa19-bse-0006assgn-2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">Add Record</string>
+    <string name="button2">Search Record</string>
+
+</resources>
